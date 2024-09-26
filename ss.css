@@ -1,0 +1,43 @@
+*{
+    background-image: url(hbb.jfif);
+}
+#myVideo {
+    position:-webkit-sticky;
+    top: 50%;
+    left: 50%;
+    margin-top: -25%; /* adjust this value to half the height of the video */
+    margin-left: -25%; /* adjust this value to half the width of the video */
+  }
+#head{
+    font-size:89px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0cqi;
+    text-decoration: double;
+    background-color: blue;
+    text-wrap:stable;
+}
+#foot{
+    font-size: larger;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-shadow: 0cm;
+    text-decoration: double;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#pg{
+    font-size: 34px;
+    background-color: aqua;
+
+}
+#para{
+    font-size: 20px;
+    -webkit-text-fill-color:peru;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-stretch: semi-condensed;
+}
+#page{
+    text-align: center;
+    font-size: x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
